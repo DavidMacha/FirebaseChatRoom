@@ -90,9 +90,9 @@ const IndexForm = () => {
   return (
     <div className="w-full md:w-5/12 h-full md:h-screen flex flex-col justify-center items-center p-8 xl:p-16 bg-primary-base space-y-4">
       <div className="flex flex-col">
-        <h1 className="font-bold text-6xl text-white text-center">SERMO</h1>
+        <h1 className="font-bold text-6xl text-white text-center">Exclusiv</h1>
         <h2 className="font-semibold text-white text-center">
-          Lightweight and No BS Messaging
+          Exclusive chatroom
         </h2>
       </div>
       <div className="w-full max-w-sm md:max-w-md flex p-4 bg-white rounded-lg">
