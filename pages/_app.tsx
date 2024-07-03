@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Sermo</title>
+        <title>Exclusiv</title>
         <meta name="description" content="A basic chat app" />
       </Head>
       <Provider store={store}>
